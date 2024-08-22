@@ -4,7 +4,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kitsana Thongbunluea
 ============================================================================================================================================
 
-I am an Information Technology for Digital Industry student at the Faculty of Informatics, Burapha University. Since I was a first-year university student, I have done everything to challenge myself as much as I could. First, I was the secretary to the president of the Faculty of Informatics Student Association and worked actively in many activities both in the faculty and the university. After that, I also worked as an assistant to the computer specialist for almost a year in the faculty. During this time, I received a scholarship for excellent students and received a scholarship to assist the faculty.
+I am an Information Technology for Digital Industry student at the Faculty of Informatics, Burapha University. Since I was a first-year university student, I have done everything to challenge myself as much as I could. First, I was the secretary to the president of the Faculty of Informatics Student Association and worked actively in many activities both in the faculty and the university. After that, I also worked as an assistant to the computer specialist for almost a year in the faculty.
 
 * 🌍  I'm based in Chonburi, Thailand
 * 🖥️  See my portfolio at [kitsana.profile](http://linktr.ee/kitsana.profile)
