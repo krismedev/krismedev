@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Chonburi, Thailand
 * 🖥️  See my portfolio at [kitsana.profile](http://linktr.ee/kitsana.profile)
-* ✉️  You can contact me at [64160175@go.buu.ac.th](mailto:64160175@go.buu.ac.th)
+* ✉️  You can contact me at [kttforwork@gmail.com](mailto:kttforwork@gmail.com)
 * 🧠  I'm learning a new Developer Tools
 
 ### Skills
