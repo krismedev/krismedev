@@ -1,10 +1,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=64160175&label=Profile%20views&color=08ba25&style=flat-square" alt="64160175" /> </p>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kitsana Thongbunluea
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kitsana
 ============================================================================================================================================
 
-I am an Information Technology for Digital Industry student at the Faculty of Informatics, Burapha University. Since I was a first-year university student, I have done everything to challenge myself as much as I could. First, I was the secretary to the president of the Faculty of Informatics Student Association and worked actively in many activities both in the faculty and the university. After that, I also worked as an assistant to the computer specialist for almost a year in the faculty.
 
 * 🌍  I'm based in Chonburi, Thailand
 * 🖥️  See my portfolio at [kitsana.profile](http://linktr.ee/kitsana.profile)
