@@ -29,7 +29,7 @@
 
 [github]: https://www.github.com/64160175
 [linkedin]: https://www.linkedin.com/in/kitsana-thongbunluea-461564265
-[email]: mailto:kttforwork@gmail.com
+[email]: mailto:kttforwork@gmail.com?subject=Hello%20from%20your%20profile
 
 ##
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=64160175&label=Profile%20views&color=08ba25&style=flat-square" alt="64160175" /> </p>
