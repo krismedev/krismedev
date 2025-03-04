@@ -27,7 +27,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)][email]
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)][github]
 
-[github]: https://www.github.com/64160175
+[github]: https://www.github.com/krismedev
 [linkedin]: https://www.linkedin.com/in/kitsana-thongbunluea-461564265
 [email]: mailto:kttforwork@gmail.com?subject=Hello%20from%20your%20profile
 
